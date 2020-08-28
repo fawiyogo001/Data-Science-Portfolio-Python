@@ -1,8 +1,14 @@
-# **Titanic Data Visualization**
+# **Titanic **
+
+
 
 ## Overview
 
-This visualization project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the questions regarding the data. Source: https://www.kaggle.com/c/titanic/data
+This project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the questions regarding the data. 
+
+Source: https://www.kaggle.com/c/titanic/data
+
+
 
 ## Data Dictionary
 
@@ -18,6 +24,8 @@ This visualization project uses data about Titanic tragedy, which happened on 14
 | fare     | Passenger Fare                                  |                                                             |
 | Cabin    | Cabin Number                                    |                                                             |
 | Embarked | Port of Embarkation                             | C = Cherbourg, <br />Q = Queenstown,  <br />S = Southampton |
+
+
 
 ## Variable Notes
 

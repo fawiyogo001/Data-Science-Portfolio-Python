@@ -1,54 +1,28 @@
-# **Titanic**
+# Data Science Portfolio
+
+The repository contains portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
 
 
-## Overview
+## Contents:
 
-This project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the questions regarding the data. 
-
-Source: https://www.kaggle.com/c/titanic/data
+<div style="text-align: justify">  
 
 
 
-## Data Dictionary
+</div>
 
-| Variable | Definition                                      | Key                                                         |
-| -------- | ----------------------------------------------- | ----------------------------------------------------------- |
-| survival | Survival                                        | 0 = No, <br />1 = Yes                                       |
-| pclass   | Ticket Class                                    | 1 = 1st, <br />2 = 2nd, <br />3 = 3rd                       |
-| sex      | Sex                                             |                                                             |
-| Age      | Age in Years                                    |                                                             |
-| sibsp    | Number of Siblings / Spouses Aboard the Titanic |                                                             |
-| parch    | Number of Parents/ Children Aboard the Titanic  |                                                             |
-| ticket   | Ticket Number                                   |                                                             |
-| fare     | Passenger Fare                                  |                                                             |
-| Cabin    | Cabin Number                                    |                                                             |
-| Embarked | Port of Embarkation                             | C = Cherbourg, <br />Q = Queenstown,  <br />S = Southampton |
+- Titanic - Survivability Analysis
 
+  An analysis about the Titanic Tragedy in 1912, which is still remembered until this day, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survivability, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survivability.
 
+- Boston Housing Price
 
-## Variable Notes
+  Exploring the affecting variables of changes in housing price in Boston in 1978, an analysis is conducted in order to find out what variables affect the price changes the most. From crime rate to nitric oxides concentration, all the variables play a part in the process.
 
-- class: A proxy for socio-economic status (SES)
+</div>
 
-  1st = Upper/High
+Tools: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Math, Scipy, StringIO
 
-  2nd = Middle
-
-  3rd = Lower
-
-- age: Age is fractional if less than 1. If the age is estimated, it is in the form of xx.5
-
-- sibsp: The dataset defines family relations in the following way:
-
-  - Sibling = brother, sister, stepbrother, stepsister
-  - Spouse = husband, wife (mistresses and fiancés were ignored)
-
-- parch: The dataset defines family relations in the following way:
-
-  - Parent = mother, father
-
-  - Child = daughter, son, stepdaughter, stepson
-
-    Some children travelled only with a nanny, therefore parch=0 for them.
+Categories: Data Analysis, Data Visualization, Machine Learning, Linear Regression
 

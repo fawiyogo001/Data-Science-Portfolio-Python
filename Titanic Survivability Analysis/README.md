@@ -6,7 +6,7 @@
 
 This project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the questions regarding the data. 
 
-Source: https://www.kaggle.com/c/titanic/data
+**Source**: *https://www.kaggle.com/c/titanic/data*
 
 <br>
 

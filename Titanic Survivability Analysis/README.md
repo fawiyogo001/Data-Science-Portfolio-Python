@@ -1,6 +1,6 @@
 # **Titanic**
 
-
+<br>
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 
 Source: https://www.kaggle.com/c/titanic/data
 
-
+<br>
 
 ## Data Dictionary
 
@@ -25,7 +25,7 @@ Source: https://www.kaggle.com/c/titanic/data
 | Cabin    | Cabin Number                                    |                                                             |
 | Embarked | Port of Embarkation                             | C = Cherbourg, <br />Q = Queenstown,  <br />S = Southampton |
 
-
+<br>
 
 ## Variable Notes
 

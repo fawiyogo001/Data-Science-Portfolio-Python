@@ -1,6 +1,6 @@
-# Boston Housing Price
+# **Boston Housing Price**
 
-
+<br>
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project uses dataset of Boston Housing Price created by Harrison, D. and Ru
 
 Source: http://archive.ics.uci.edu/ml/datasets/Housing
 
-
+<br>
 
 ## Data Dictionary
 

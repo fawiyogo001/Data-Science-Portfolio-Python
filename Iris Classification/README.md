@@ -40,7 +40,7 @@ Source: Fisher, R.A. "<i>The use of multiple measurements in taxonomic problems<
 - Sepal (sɛp(ə)l; siːp(ə)l), *noun*. each of the parts of the calyx of a flower, enclosing the petals and typically green and leaflike.
 - Petal (pɛt(ə)l), *noun*. each of the segments of the corolla of a flower, which are modified leaves and are typically colored.
 
-![](D:\Folders\LightSouls888\Scripts\Data Science Portfolio (Python)\Iris Classification\Iris_sepal_petal.png)
+![](Iris_sepal_petal.png)
 
 <center> <i>Source: https://morioh.com/p/eafb28ccf4e3</i> </center>
 

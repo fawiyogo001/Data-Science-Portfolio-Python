@@ -4,9 +4,22 @@ The repository contains portfolio of data science projects made by myself for ac
 
 <br>
 
-**Tools**: Math, Matplotlib, Numpy, Pandas, Scikit-learn, Scipy, Seaborn, StringIO
+**Tools**: Math, Matplotlib, Numpy, Pandas, Scikit-learn, Scipy, Seaborn, StringIO.
 
-**Categories**: Data Analysis, Data Visualization, Linear Regression, Machine Learning, Statistics
+**Categories**: 
+
+|      Data Analysis       |         Data Visualization         |  Decision Tree Classifier  |
+| :----------------------: | :--------------------------------: | :------------------------: |
+| **Gaussian Naïve Bayes** | **K-Nearest Neighbors Classifier** |   **Linear Regression**    |
+|     **Linear Model**     |      **Logistic Regression**       |    **Machine Learning**    |
+|       **Metrics**        |        **Model Selection**         |      **Naïve Bayes**       |
+|    **Random Forest**     |           **Statistics**           | **Support Vector Machine** |
+
+<style>
+   	.tab {border-collapse:collapse;}
+	.tab .first {border-bottom:1px solid #EEE;}
+	.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
 
 <br>
 
@@ -16,18 +29,19 @@ The repository contains portfolio of data science projects made by myself for ac
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Boston%20Housing%20Price">Boston Housing Price</a>
 
   <div style="text-align: justify">
-      Exploring the affecting variables of changes in housing price in Boston in 1978, an analysis is conducted in order to find out what variables affect the price changes the most. From crime rate to nitric oxides concentration, all the variables play a part in the process. 
+      Exploring the affecting variables of changes in housing price in Boston in 1978, an analysis is conducted in order to find out what variables affect the price changes the most. From crime rate to nitric oxides concentration, all the variables play a part in the price variation. 
   </div>
 
+- <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Iris%20Classification">Iris Classification</a>
+
+  <div style="text-align: justify">Biologically classifying a flower with Genus name <i>Iris</i> into three different species: <i>Iris Setosa</i>, <i>Iris Versicolor</i>, and <i>Iris Virginica</i> using a dataset of observations performed by Sir Ronald Fisher in 1936. The classification utilizes four properties: sepal length, sepal width, petal length, and petal width.
+  </div>
+  
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survivability%20Analysis">Titanic Survivability Analysis</a>
 
   <div style="text-align: justify"> 
       An analysis about the Titanic Tragedy in 1912, which is still remembered until this day, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survivability, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survivability. 
   </div>
-
-- 
-
-  
 
 <br>
 

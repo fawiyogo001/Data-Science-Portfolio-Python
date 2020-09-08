@@ -1,4 +1,8 @@
-# **Data Science Portfolio**
+<div style='text-align: center'>
+    <h1>
+        <b>Data Science Portfolio</b>
+    </h1>
+</div>
 
 The repository contains portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
@@ -8,9 +12,8 @@ The repository contains portfolio of data science projects made by myself for ac
 
 **Categories**: 
 
-<link rel="stylesheet" href="stylesheet.css"></link>
-
 <table cellpadding="0" cellspacing="0" border="0" frame=void rules=none style:'text-align: center' style="border: 0px solid transparent;">
+    <link rel="stylesheet" type="text/css" media="all" href="stylesheet.css"></link>
     <tr>
         <td class='first' style='text-align: center'>Data Analysis</td>
         <td class='first' style='text-align: center'>Data Visualization</td>

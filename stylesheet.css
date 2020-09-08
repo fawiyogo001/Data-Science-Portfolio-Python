@@ -1,3 +1,13 @@
-table {
+table, tr, td{
+    border-collapse: collapse;
+    margin:100px auto;
     empty-cells: hide;
+    border: none !important;
+}
+
+td {
+    margin: 0px;
+    padding: 5px;
+    text-align: left;
+    border:1px solid white;
 }

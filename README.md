@@ -10,7 +10,7 @@ The repository contains portfolio of data science projects made by myself for ac
 
 <link rel="stylesheet" href="stylesheet.css"></link>
 
-<table frame=void rules=none>
+<table cellpadding="0" cellspacing="0" border="0" frame=void rules=none style:'text-align: center' style="border: 0px solid transparent;">
     <tr>
         <td class='first' style='text-align: center'>Data Analysis</td>
         <td class='first' style='text-align: center'>Data Visualization</td>

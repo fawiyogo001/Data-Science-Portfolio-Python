@@ -8,7 +8,7 @@ The repository contains portfolio of data science projects made by myself for ac
 
 **Categories**: 
 
-<table border='0' cellspacing='0' cellpadding='0' frame=void rules=none style='border-collapse: collapse'>
+<table border='0' cellspacing='0' cellpadding='0' frame=void rules=none>
     <tr>
         <td class='first' style='text-align: center'>Data Analysis</td>
         <td class='first' style='text-align: center'>Data Visualization</td>
@@ -35,6 +35,15 @@ The repository contains portfolio of data science projects made by myself for ac
         <td class='fifth' style='text-align: center'>Support Vector Machine</td>
     </tr>
      </table>
+
+<style type='text/css'>
+    .tab {border-collapse:collapse;}
+    .tab .first {border-bottom:1px solid #EEE;}
+    .tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+    .tab .third {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}
+    .tab .fourth {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}
+    .tab .fifth {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}
+</style>
 
 <br>
 

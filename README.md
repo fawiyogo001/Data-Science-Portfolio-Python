@@ -8,18 +8,33 @@ The repository contains portfolio of data science projects made by myself for ac
 
 **Categories**: 
 
-|      Data Analysis       |         Data Visualization         |  Decision Tree Classifier  |
-| :----------------------: | :--------------------------------: | :------------------------: |
-| **Gaussian Naïve Bayes** | **K-Nearest Neighbors Classifier** |   **Linear Regression**    |
-|     **Linear Model**     |      **Logistic Regression**       |    **Machine Learning**    |
-|       **Metrics**        |        **Model Selection**         |      **Naïve Bayes**       |
-|    **Random Forest**     |           **Statistics**           | **Support Vector Machine** |
-
-<style>
-   	.tab {border-collapse:collapse;}
-	.tab .first {border-bottom:1px solid #EEE;}
-	.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
+<table border='0' cellspacing='0' cellpadding='0' frame=void rules=none style='border-collapse: collapse'>
+    <tr>
+        <td class='first' style='text-align: center'>Data Analysis</td>
+        <td class='first' style='text-align: center'>Data Visualization</td>
+        <td class='first' style='text-align: center'>Decision Tree Classifier</td>
+    </tr>
+    <tr>
+        <td class='second' style='text-align: center'>Gaussian Naïve Bayes</td> 
+        <td class='second' style='text-align: center'>K-Nearest Neighbors Classifier</td> 
+        <td class='second' style='text-align: center'>Linear Regression</td> 
+    </tr>
+    <tr>
+        <td class='third' style='text-align: center'>Linear Model</td>
+        <td class='third' style='text-align: center'>Logistic Regression</td>
+        <td class='third' style='text-align: center'>Machine Learning</td>
+    </tr>
+    <tr>
+        <td class='fourth' style='text-align: center'>Metrics</td>
+        <td class='fourth' style='text-align: center'>Model Selection</td>
+        <td class='fourth' style='text-align: center'>Naïve Bayes</td>
+    </tr>
+    <tr>
+        <td class='fifth' style='text-align: center'>Random Forest</td>
+        <td class='fifth' style='text-align: center'>Statistics</td>
+        <td class='fifth' style='text-align: center'>Support Vector Machine</td>
+    </tr>
+     </table>
 
 <br>
 

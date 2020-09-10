@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the passengers survivability based on the data. 
+This project uses data about Titanic tragedy, which happened on 14 April 1912, to explore the passengers' survival based on the data. 
 
 **Source**: *https://www.kaggle.com/c/titanic/data*
 

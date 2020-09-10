@@ -74,10 +74,10 @@ The repository contains portfolio of data science projects made by myself for ac
   <div style="text-align: justify">Biologically classifying a flower with Genus name <i>Iris</i> into three different species: <i>Iris Setosa</i>, <i>Iris Versicolor</i>, and <i>Iris Virginica</i> using a dataset of observations performed by Sir Ronald Fisher in 1936. The classification utilizes four properties: sepal length, sepal width, petal length, and petal width.
   </div>
   
-- <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survivability%20Analysis">Titanic Survivability Analysis</a>
+- <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survival%20Analysis">Titanic Survival Analysis</a>
 
   <div style="text-align: justify"> 
-      An analysis about the Titanic Tragedy in 1912, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survivability, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survivability. 
+      An analysis about the Titanic Tragedy in 1912, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survival, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survival. 
   </div>
 
 <br>

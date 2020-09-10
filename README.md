@@ -15,31 +15,48 @@ The repository contains portfolio of data science projects made by myself for ac
 <table cellpadding="0" cellspacing="0" border="0" frame=void rules=none style:'text-align: center' style="border: 0px solid transparent;">
     <link rel="stylesheet" type="text/css" media="all" href="stylesheet.css"></link>
     <tr>
-        <td class='first' style='text-align: center'>Data Analysis</td>
-        <td class='first' style='text-align: center'>Data Visualization</td>
-        <td class='first' style='text-align: center'>Decision Tree Classifier</td>
+        <td class='first' style='text-align: center'><ul><li>Data Analysis</li>
+            </ul></td>
+        <td class='first' style='text-align: center'><ul>
+            <li>Data Visualization</li>
+            </ul></td>
+        <td class='first' style='text-align: center'><ul>
+            <li>Decision Tree Classifier</li></ul></td>
     </tr>
     <tr>
-        <td class='second' style='text-align: center'>Gaussian Naïve Bayes</td> 
-        <td class='second' style='text-align: center'>K-Nearest Neighbors Classifier</td> 
-        <td class='second' style='text-align: center'>Linear Regression</td> 
+        <td class='second' style='text-align: center'><ul>
+            <li>Gaussian Naïve Bayes</li></ul></td> 
+        <td class='second' style='text-align: center'><ul>
+            <li>K-Nearest Neighbors Classifier</li></ul></td> 
+        <td class='second' style='text-align: center'><ul>
+            <li>Linear Regression</li></ul></td> 
     </tr>
     <tr>
-        <td class='third' style='text-align: center'>Linear Model</td>
-        <td class='third' style='text-align: center'>Logistic Regression</td>
-        <td class='third' style='text-align: center'>Machine Learning</td>
+        <td class='third' style='text-align: center'><ul>
+            <li>Linear Model</li></ul></td>
+        <td class='third' style='text-align: center'><ul>
+            <li>Logistic Regression</li></ul></td>
+        <td class='third' style='text-align: center'><ul>
+            <li>Machine Learning</li></ul></td>
     </tr>
     <tr>
-        <td class='fourth' style='text-align: center'>Metrics</td>
-        <td class='fourth' style='text-align: center'>Model Selection</td>
-        <td class='fourth' style='text-align: center'>Naïve Bayes</td>
+        <td class='fourth' style='text-align: center'><ul>
+            <li>Metrics</li></ul></td>
+        <td class='fourth' style='text-align: center'><ul>
+            <li>Model Selection</li></ul></td>
+        <td class='fourth' style='text-align: center'><ul>
+            <li>Naïve Bayes</li></ul></td>
     </tr>
     <tr>
-        <td class='fifth' style='text-align: center'>Random Forest</td>
-        <td class='fifth' style='text-align: center'>Statistics</td>
-        <td class='fifth' style='text-align: center'>Support Vector Machine</td>
+        <td class='fifth' style='text-align: center'><ul>
+            <li>Random Forest</li></ul></td>
+        <td class='fifth' style='text-align: center'><ul>
+            <li>Statistics</li></ul></td>
+        <td class='fifth' style='text-align: center'><ul>
+            <li>Support Vector Machine</li></ul></td>
     </tr>
      </table>
+
 
 <br>
 
@@ -60,7 +77,7 @@ The repository contains portfolio of data science projects made by myself for ac
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survivability%20Analysis">Titanic Survivability Analysis</a>
 
   <div style="text-align: justify"> 
-      An analysis about the Titanic Tragedy in 1912, which is still remembered until this day, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survivability, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survivability. 
+      An analysis about the Titanic Tragedy in 1912, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survivability, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survivability. 
   </div>
 
 <br>

@@ -3,60 +3,62 @@
         <b>Data Science Portfolio</b>
     </h1>
 </div>
+<br>
+
+## Overview
 
 The repository contains portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
 <br>
 
-**Tools**: Math, Matplotlib, Numpy, Pandas, Scikit-learn, Scipy, Seaborn, StringIO.
+**Tools**: Cufflinks, Math, Matplotlib, Numpy, Pandas, Plotly, Scikit-learn, Scipy, Seaborn, Statsmodels.api,  StringIO.
 
 **Categories**: 
 
 <table cellpadding="0" cellspacing="0" border="0" frame=void rules=none style:'text-align: center' style="border: 0px solid transparent;">
     <link rel="stylesheet" type="text/css" media="all" href="stylesheet.css"></link>
     <tr>
-        <td class='first' style='text-align: center'><ul><li>Data Analysis</li>
+        <td style='text-align: center'><ul><li>Data Analysis</li>
             </ul></td>
-        <td class='first' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Data Visualization</li>
             </ul></td>
-        <td class='first' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Decision Tree Classifier</li></ul></td>
     </tr>
     <tr>
-        <td class='second' style='text-align: center'><ul>
-            <li>Gaussian Naïve Bayes</li></ul></td> 
-        <td class='second' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
+            <li>Econometrics</li></ul></td> 
+        <td style='text-align: center'><ul>
             <li>K-Nearest Neighbors Classifier</li></ul></td> 
-        <td class='second' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Linear Regression</li></ul></td> 
     </tr>
     <tr>
-        <td class='third' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Linear Model</li></ul></td>
-        <td class='third' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Logistic Regression</li></ul></td>
-        <td class='third' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Machine Learning</li></ul></td>
     </tr>
     <tr>
-        <td class='fourth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Metrics</li></ul></td>
-        <td class='fourth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Model Selection</li></ul></td>
-        <td class='fourth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Naïve Bayes</li></ul></td>
     </tr>
     <tr>
-        <td class='fifth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Random Forest</li></ul></td>
-        <td class='fifth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Statistics</li></ul></td>
-        <td class='fifth' style='text-align: center'><ul>
+        <td style='text-align: center'><ul>
             <li>Support Vector Machine</li></ul></td>
     </tr>
      </table>
-
 
 <br>
 

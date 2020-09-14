@@ -7,11 +7,15 @@
 
 ## Overview
 
-The repository contains portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
+The repository is dedicated to contain a portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
 <br>
 
-**Tools**: Cufflinks, Math, Matplotlib, Numpy, Pandas, Plotly, Scikit-learn, Scipy, Seaborn, Statsmodels.api,  StringIO.
+**Tools**: 
+
+- Multi-Functional: Math, Numpy, Pandas,  Scipy, StringIO.
+- Data Visualization: Cufflinks, Matplotlib, Plotly, Seaborn.
+- Machine Learning: Scikit-learn, Statsmodels.api.
 
 **Categories**: 
 
@@ -30,7 +34,7 @@ The repository contains portfolio of data science projects made by myself for ac
         <td style='text-align: center'><ul>
             <li>Econometrics</li></ul></td> 
         <td style='text-align: center'><ul>
-            <li>K-Nearest Neighbors Classifier</li></ul></td> 
+            <li>K-Nearest Neighbors Classifier (KNN)</li></ul></td> 
         <td style='text-align: center'><ul>
             <li>Linear Regression</li></ul></td> 
     </tr>
@@ -40,7 +44,7 @@ The repository contains portfolio of data science projects made by myself for ac
         <td style='text-align: center'><ul>
             <li>Logistic Regression</li></ul></td>
         <td style='text-align: center'><ul>
-            <li>Machine Learning</li></ul></td>
+            <li>Machine Learning (ML)</li></ul></td>
     </tr>
     <tr>
         <td style='text-align: center'><ul>
@@ -56,9 +60,10 @@ The repository contains portfolio of data science projects made by myself for ac
         <td style='text-align: center'><ul>
             <li>Statistics</li></ul></td>
         <td style='text-align: center'><ul>
-            <li>Support Vector Machine</li></ul></td>
+            <li>Support Vector Machine (SVM)</li></ul></td>
     </tr>
      </table>
+
 
 <br>
 

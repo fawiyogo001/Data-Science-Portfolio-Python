@@ -7,7 +7,7 @@
 
 ## Overview
 
-The repository is dedicated to contain a portfolio of data science projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
+The repository is dedicated to containing a portfolio of data science projects and mini-projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
 <br>
 

@@ -13,16 +13,16 @@ The repository is dedicated to containing a portfolio of data science projects a
 
 **Tools**: 
 
-- Multi-Functional: Math, Numpy, Pandas,  Scipy, StringIO.
-- Data Visualization: Cufflinks, Matplotlib, Plotly, Seaborn.
-- Machine Learning: Scikit-learn, Statsmodels.api.
-- Natural Language Processing: NLTK.
+- <b>Multi-Functional</b>: Math, Numpy, Pandas,  Scipy, String.
+- <b>Data Visualization</b>: Cufflinks, Matplotlib, Plotly, Seaborn.
+- <b>Machine Learning</b>: Scikit-learn, Statsmodels.api.
+- <b>Natural Language Processing</b>: NLTK.
 
 **Categories**: 
 
 - <b>Data Analysis</b>: Data Cleaning, Data Visualization, Econometrics, Geographical Plotting, Linear Model, Statistics, Metrics.
-- <b>Machine Learning</b>: Decision Tree Classifier, K-Nearest Neighbors Classifier (KNN), Linear Regression, Logistic Regression, Naïve Bayes, Random Forest, Support Vector Machine (SVM).
-- <b>Natural Language Processing</b>: Count Vectorizer, Pipeline, Term Frequency Inverse Document Frequency.
+- <b>Machine Learning</b>: Cross Validation, Decision Tree Classifier, K-Nearest Neighbors Classifier (KNN), Linear Regression, Logistic Regression, Naïve Bayes, Pipeline, Random Forest, Support Vector Machine (SVM).
+- <b>Natural Language Processing</b>: Count Vectorizer, Term Frequency Inverse Document Frequency.
 
 <br>
 
@@ -38,6 +38,8 @@ The repository is dedicated to containing a portfolio of data science projects a
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/911%20Calls/911%20Calls.ipynb'>here</a>.
   </div>
 
+  <br>
+
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Boston%20Housing%20Price">Boston Housing Price</a>
 
   <div style="text-align: justify">
@@ -47,6 +49,8 @@ The repository is dedicated to containing a portfolio of data science projects a
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Boston%20Housing%20Price/Boston%20Housing%20Price.ipynb'>here</a>.
   </div>
 
+  <br>
+
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Iris%20Classification">Iris Classification</a>
 
   <div style="text-align: justify">Biologically classifying a flower with Genus name <i>Iris</i> into three different species: <i>Iris Setosa</i>, <i>Iris Versicolor</i>, and <i>Iris Virginica</i> using a dataset of observations performed by Sir Ronald Fisher in 1936. The classification utilizes four properties: sepal length, sepal width, petal length, and petal width.
@@ -54,6 +58,8 @@ The repository is dedicated to containing a portfolio of data science projects a
       <br>
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Iris%20Classification/Iris%20Classification.ipynb'>here</a>.
   </div>
+
+  <br>
 
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Spam%20Detection%20Filter'>Spam Detection Filter</a>
 
@@ -63,6 +69,8 @@ The repository is dedicated to containing a portfolio of data science projects a
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Spam%20Detection%20Filter/Spam%20Detection%20Filter.ipynb'>here</a>.
   </div>
   
+  <br>
+  
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survival%20Analysis">Titanic Survival Analysis</a>
 
   <div style="text-align: justify"> 
@@ -71,6 +79,8 @@ The repository is dedicated to containing a portfolio of data science projects a
       <br>
       Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Titanic%20Survival%20Analysis/Titanic%20Survival%20Analysis.ipynb'>here</a>.
   </div>
+  
+  <br>
 
 <br>
 

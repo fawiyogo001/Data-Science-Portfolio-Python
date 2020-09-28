@@ -1,4 +1,4 @@
-<h1><b>E-Commerce Purchases</b></h1>
+<center><h1><b>E-Commerce Purchases</b></h1></center>
 
 <br>
 

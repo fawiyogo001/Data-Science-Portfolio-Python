@@ -8,6 +8,8 @@ A system which uses machine learning to recommend movies based on movies ratings
 
 <br>
 
+<b>Source</b>: <i>https://grouplens.org/datasets/movielens/</i>
+
 ## Data Dictionary
 
 - u.data

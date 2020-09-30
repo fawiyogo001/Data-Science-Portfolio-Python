@@ -9,7 +9,7 @@
 
 The repository is dedicated to containing a portfolio of data science projects and mini-projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
-P.s Pyplot and Choropleth can not be displayed using github code viewer and have to be viewed using nbviewer 
+<b>P.S.</b> Pyplot and Choropleth can not be displayed using github code viewer and have to be viewed using nbviewer 
 
 <br>
 
@@ -73,6 +73,11 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
       <br>
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Iris%20Classification/Iris%20Classification.ipynb'>here</a>.
   </div>
+<br>
+  
+- <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Movies%20Recommender%20System'>Movies Recommender System</a>
+
+  
 
   <br>
 

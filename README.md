@@ -9,6 +9,8 @@
 
 The repository is dedicated to containing a portfolio of data science projects and mini-projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
+P.s Pyplot and Choropleth can not be displayed using github code viewer and have to be viewed using nbviewer 
+
 <br>
 
 Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfolio-Python/>custom theme</a>
@@ -51,6 +53,15 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
       <br>
       <br>
   Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Boston%20Housing%20Price/Boston%20Housing%20Price.ipynb'>here</a>.
+  </div>
+  <br>
+
+- <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/E-Commerce%20Purchases'>E-Commerce Purchases</a>
+
+  <div style="text-align: justify">Gaining insight of how current e-commerce system has affected customers' purchases as well as consumptions and thus, finding a way to improve the system. The analysis involves two datasets, customers data and purchases data for an analysis from customers' and purchases' point of view respectively. 
+      <br>
+      <br>
+  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/E-Commerce%20Purchases/E-Commerce%20Purchases.ipynb'>here</a>.
   </div>
 
   <br>

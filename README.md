@@ -77,7 +77,11 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
   
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Movies%20Recommender%20System'>Movies Recommender System</a>
 
-  
+  <div style="text-align: justify">Creating a system which utilizes the users' rating to filter as well as recommend the most "similar" movies by implementing Memory-Based Collaborative Filtering and Model-Based Collaborative Filtering. The dataset was obtained from MovieLens.
+      <br>
+      <br>
+  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Movies%20Recommender%20System/Movies%20Recommender%20System.ipynb'>here</a>.
+  </div>
 
   <br>
 

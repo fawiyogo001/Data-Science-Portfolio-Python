@@ -23,6 +23,7 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 - <b>Data Visualization</b>: Cufflinks, Matplotlib, Plotly, Seaborn.
 - <b>Machine Learning</b>: Scikit-learn, Statsmodels.api.
 - <b>Natural Language Processing</b>: NLTK.
+- <b>Deep Learning</b>: Tensorflow, Keras.
 
 **Categories**: 
 

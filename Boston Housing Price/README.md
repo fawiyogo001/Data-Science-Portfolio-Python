@@ -6,7 +6,13 @@
 
 This project uses dataset of Boston Housing Price created by Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978. 
 
+<br>
+
 **Source**: *http://archive.ics.uci.edu/ml/datasets/Housing*
+
+<br>
+
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Boston%20Housing%20Price/Boston%20Housing%20Price.ipynb'>here</a>.
 
 <br>
 

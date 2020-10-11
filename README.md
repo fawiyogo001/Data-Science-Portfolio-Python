@@ -40,23 +40,18 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 
   <div style="text-align: justify">
       Exploring the data of 911 Emergency Calls of all townships and boroughs in Montgomery County, Pennsylvania, the United States of America across three departments: EMS (Emergency Medical Service), Fire, and Traffic. The data is provided by <i>montcoalert.org</i>.
-      <br>
-      <br>
-  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/911%20Calls/911%20Calls.ipynb'>here</a>.
   </div>
-
+  
   <br>
-
+  
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Boston%20Housing%20Price">Boston Housing Price</a>
 
   <div style="text-align: justify">
       Exploring the affecting variables of changes in housing price in Boston in 1978, an analysis is conducted in order to find out what variables affect the price changes the most. From crime rate to nitric oxides concentration, all the variables play a part in the price variation. 
-      <br>
-      <br>
-  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Boston%20Housing%20Price/Boston%20Housing%20Price.ipynb'>here</a>.
   </div>
+  
   <br>
-
+  
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/E-Commerce%20Purchases'>E-Commerce Purchases</a>
 
   <div style="text-align: justify">Gaining insight of how current e-commerce system has affected customers' purchases as well as consumptions and thus, finding a way to improve the system. The analysis involves two datasets, customers data and purchases data for an analysis from customers' and purchases' point of view respectively. 

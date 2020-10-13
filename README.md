@@ -55,11 +55,9 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/E-Commerce%20Purchases'>E-Commerce Purchases</a>
 
   <div style="text-align: justify">Gaining insight of how current e-commerce system has affected customers' purchases as well as consumptions and thus, finding a way to improve the system. The analysis involves two datasets, customers data and purchases data for an analysis from customers' and purchases' point of view respectively. 
-      <br>
-      <br>
-  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/E-Commerce%20Purchases/E-Commerce%20Purchases.ipynb'>here</a>.
   </div>
-
+  
+  
   <br>
 
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Iris%20Classification">Iris Classification</a>

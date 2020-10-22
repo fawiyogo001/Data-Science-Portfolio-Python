@@ -19,8 +19,10 @@ latter is not linearly separable from each other.
 <br>
 <br>
 <b>Source</b>: Fisher, R.A. "<i>The use of multiple measurements in taxonomic problems</i>" Annual Eugenics, 7, Part II, 179-188 (1936)
+<br>
+<br>
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Iris%20Classification/Iris%20Classification.ipynb'>here</a>.
 </div>
-
 
 
 <br>

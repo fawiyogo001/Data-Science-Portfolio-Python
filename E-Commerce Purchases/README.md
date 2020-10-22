@@ -7,6 +7,10 @@
 The analysis about artificial e-commerce data of customers' purchases utilizing two datasets: customers data and purchases data. 
 
 <br>
+<br>
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/E-Commerce%20Purchases/E-Commerce%20Purchases.ipynb'>here</a>.
+
+<br>
 
 ## Data Dictionary
 

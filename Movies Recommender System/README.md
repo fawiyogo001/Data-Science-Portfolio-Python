@@ -10,6 +10,11 @@ A system which uses machine learning to recommend movies based on movies ratings
 
 <b>Source</b>: <i>https://grouplens.org/datasets/movielens/</i>
 
+<br>
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Movies%20Recommender%20System/Movies%20Recommender%20System.ipynb'>here</a>.
+
+<br>
+
 ## Data Dictionary
 
 - u.data

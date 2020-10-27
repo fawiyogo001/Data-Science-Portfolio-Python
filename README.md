@@ -69,17 +69,13 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 
   <div style="text-align: justify">Creating a system which utilizes the users' rating to filter as well as recommend the most "similar" movies by implementing Memory-Based Collaborative Filtering and Model-Based Collaborative Filtering. The dataset was obtained from MovieLens.
   </div>
-  
-  
   <br>
-
+  
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Spam%20Detection%20Filter'>Spam Detection Filter</a>
 
   <div style="text-align: justify">Using a data from a corpus which was collected for research at the Department of Computer Science at the National University of Singapore (NUS), this project unravels two types of message: ham which is the normal non-spam text message and spam which is the irrelevant or unsolicited messages sent over the Internet (typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc.). The exploration starts from the characteristics of a text message to its classification.
-      <br>
-      <br>
-  Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Spam%20Detection%20Filter/Spam%20Detection%20Filter.ipynb'>here</a>.
   </div>
+  
   
   <br>
   

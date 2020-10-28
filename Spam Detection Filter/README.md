@@ -9,6 +9,8 @@ A project using a corpus which was collected for research at the Department of C
 <br>
 
 <b>Source</b>: <i>https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection</i>
+ <br>
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Spam%20Detection%20Filter/Spam%20Detection%20Filter.ipynb'>here</a>.
 
 <br>
 

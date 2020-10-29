@@ -65,6 +65,12 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
   
   <br>
   
+- <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Lending%20Club%20Loan'>Lending Club Loan</a>
+
+  Identifying and classifying the loan status from Lending Club company based on the borrowers' more than 100 criteria and information. Furthermore, the project will also include using simulation upon a new set of data to predict whether the borrowers will default on a loan or not.
+  
+  <br>
+  
 - <a href='https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Movies%20Recommender%20System'>Movies Recommender System</a>
 
   <div style="text-align: justify">Creating a system which utilizes the users' rating to filter as well as recommend the most "similar" movies by implementing Memory-Based Collaborative Filtering and Model-Based Collaborative Filtering. The dataset was obtained from MovieLens.
@@ -75,8 +81,6 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 
   <div style="text-align: justify">Using a data from a corpus which was collected for research at the Department of Computer Science at the National University of Singapore (NUS), this project unravels two types of message: ham which is the normal non-spam text message and spam which is the irrelevant or unsolicited messages sent over the Internet (typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc.). The exploration starts from the characteristics of a text message to its classification.
   </div>
-  
-  
   <br>
   
 - <a href = "https://github.com/fawiyogo001/Data-Science-Portfolio-Python/tree/master/Titanic%20Survival%20Analysis">Titanic Survival Analysis</a>

@@ -9,7 +9,7 @@
 
 The repository is dedicated to containing a portfolio of data science projects and mini-projects made by myself for academic and self-enrichment purposes using I-Python Notebook. 
 
-<b>P.S.</b> <i>Pyplot</i> and <i>Choropleth</i> can not be displayed using github code viewer and have to be viewed using nbviewer 
+<b>P.S.</b> <i>Pyplot</i> and <i>Choropleth</i> can not be displayed using Github code viewer and have to be viewed using NoteBook Viewer (nbviewer) 
 
 <br>
 
@@ -30,6 +30,7 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 - <b>Data Analysis</b>: Calculus, Data Mining, Data Preprocessing, Data Visualization, Data Wrangling, Econometrics, Geographical Plotting, Linear Algebra, Linear Model, Statistics.
 - <b>Machine Learning</b>: Cross Validation, Decision Tree Classifier, K-Nearest Neighbors Classifier (KNN), Linear Regression, Logistic Regression, Naïve Bayes, Pipeline, Random Forest, Support Vector Machine (SVM).
 - <b>Natural Language Processing</b>: Count Vectorizer, Term Frequency Inverse Document Frequency, Text Processing.
+- <b>Deep Learning</b>: Callbacks Method, Dropout Method.
 
 <br>
 

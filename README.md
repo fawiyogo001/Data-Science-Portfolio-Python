@@ -88,10 +88,8 @@ Show this README in a <a href=https://fawiyogo001.github.io/Data-Science-Portfol
 
   <div style="text-align: justify"> 
       An analysis about the Titanic Tragedy in 1912, explores the general idea of what the dataset is about. While unraveling the causes of passengers' survival, this analysis will also show insights of how each variable such as sex, age and socio-economic status determine the passengers' survival. 
-      <br>
-      <br>
-      Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Titanic%20Survival%20Analysis/Titanic%20Survival%20Analysis.ipynb'>here</a>.
   </div>
+  
   
   <br>
 

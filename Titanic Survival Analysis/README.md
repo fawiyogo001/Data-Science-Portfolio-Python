@@ -9,6 +9,10 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 **Source**: *https://www.kaggle.com/c/titanic/data*
 
 <br>
+<br>
+Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Titanic%20Survival%20Analysis/Titanic%20Survival%20Analysis.ipynb'>here</a>.
+
+<br>
 
 ## Data Dictionary
 

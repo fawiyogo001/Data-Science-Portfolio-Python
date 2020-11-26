@@ -6,6 +6,10 @@
 
 Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania across three departments: EMS (Emergency Medical Service),  Fire, and Traffic. The data is provided by <a href='http://montcoalert.org/gettingdata/'>montcoalert.org</a>. The codes are split into a few parts especially the geographical plots due to the fact that the size of choropleth using Plotly library has exceeded the recommended size for github (50Mb) and might bypass the limit (100Mb)
 
+```
+![Geographical Plot 1](D:\Folders\LightSouls888\Scripts\Data Science Portfolio (Python)\911 Calls\Geographical Plot 1.png)
+```
+
 <br>
 
 <b>Source</b>: <i>https://www.kaggle.com/mchirico/montcoalert</i>

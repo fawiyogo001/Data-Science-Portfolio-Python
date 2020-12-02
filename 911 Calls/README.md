@@ -8,7 +8,7 @@ Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania acr
 
 <b>
 
-![](D:\Folders\LightSouls888\Scripts\Data Science Portfolio (Python)\911 Calls\Geographical Plot 1.png)
+![](Geographical Plot 1.png)
 
 <center><i>Picture 1: The Number of 911 Calls in Montgomery Country, Pennsylvania </i></center>
 

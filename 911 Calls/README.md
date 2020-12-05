@@ -14,6 +14,12 @@ Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania acr
 
 <br>
 
+![](Geographical_Plot_2.png)
+
+<br>
+
+<br>
+
 <b>Source</b>: <i>https://www.kaggle.com/mchirico/montcoalert</i>
 
 <br>

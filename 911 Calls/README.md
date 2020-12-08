@@ -8,8 +8,6 @@ Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania acr
 
 <br>
 
-<br>
-
 <b>Source</b>: <i>https://www.kaggle.com/mchirico/montcoalert</i>
 
 <br>
@@ -18,13 +16,21 @@ Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania acr
 
 ![](Geographical_Plot_1.png)
 
-<center><i>Picture 1: The Number of 911 Calls in Montgomery Country, Pennsylvania (Choropleth)</i></center>
+<div align=”center”>
+    <p>
+        <i>Picture 1: The Number of 911 Calls in Montgomery Country, Pennsylvania (Choropleth)</i>
+    </p>
+</div>
 
 <br>
 
 ![](Geographical_Plot_2.png)
 
-<center><i>Picture 2: The Number of 911 Calls in Montgomery Country, Pennsylvania (Scatter Plot)</i></center>
+<div align=”center”>
+    <p>
+        <i>Picture 2: The Number of 911 Calls in Montgomery Country, Pennsylvania (Scatter Plot)</i>
+    </p>
+</div>
 
 <br>
 

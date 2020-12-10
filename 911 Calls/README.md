@@ -14,21 +14,18 @@ Exploring the data of 911 Emergency Calls in Montgomery County, Pennsylvania acr
 
 ![](Geographical_Plot_1.png)
 
-<div align=”center”>
-    <p>
-        <i>Picture 1: The Number of 911 Calls in Montgomery Country, Pennsylvania (Choropleth)</i>
-    </p>
-</div>
+<p style='text-align: center'>
+    <i>Picture 1: The Number of 911 Calls in Montgomery Country, Pennsylvania (Choropleth)</i>
+</p>
 
 <br>
 
 ![](Geographical_Plot_2.png)
 
-<div align=”center”>
-    <p>
-        <i>Picture 2: The Number of 911 Calls in Montgomery Country, Pennsylvania (Scatter Plot)</i>
-    </p>
-</div>
+<p style='text-align: center'>
+    <i>Picture 2: The Number of 911 Calls in Montgomery Country, Pennsylvania (Scatter Plot)</i>
+</p>
+
 <br>Should the github viewer not work, please view using these links:
 
 -  <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/911 Calls/911 Calls - Data Cleaning %26 Visualization.ipynb'>Data Cleaning & Visualization.ipynb</a>.

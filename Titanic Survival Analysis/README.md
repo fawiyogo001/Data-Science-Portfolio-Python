@@ -12,6 +12,8 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 
 ![](Deck_Facet_Grid.PNG)
 
+<center><i>Picture 1: The distribution of Titanic passengers based on both ticket fares and Deck Level</i></center>
+
 <br>
 Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Titanic%20Survival%20Analysis/Titanic%20Survival%20Analysis.ipynb'>here</a>.
 

@@ -18,6 +18,8 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 
 ![](Logit_Marginal_Effect.PNG)
 
+<center><i>Picture 2: The Model's Logit Marginal Effect</i></center>
+
 <br>
 
 Should the github viewer not work, please view it <a href='https://nbviewer.jupyter.org/github/fawiyogo001/Data-Science-Portfolio-Python/blob/master/Titanic%20Survival%20Analysis/Titanic%20Survival%20Analysis.ipynb'>here</a>.

@@ -16,9 +16,13 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 
 <br>
 
+<br>
+
 ![](Logit_Marginal_Effect.PNG)
 
 <center><i>Picture 2: The Model's Logit Marginal Effect</i></center>
+
+<br>
 
 <br>
 

@@ -28,6 +28,8 @@ This project uses data about Titanic tragedy, which happened on 14 April 1912, t
 
 ![](Logit_Regression_Result.PNG)
 
+<center><i>Picture 3: The Model's Logit Regression Result</i></center>
+
 <br>
 
 <br>

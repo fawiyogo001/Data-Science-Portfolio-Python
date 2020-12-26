@@ -12,6 +12,8 @@ This project uses data from an American peer-to-peer lending company, Lending Cl
 
 ![](Borrowing_Reason.PNG)
 
+<center><i>Picture 1: Borrowers' Purpose in Getting Loan </i></center>
+
 <br>
 
 <br>

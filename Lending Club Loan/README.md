@@ -8,6 +8,14 @@ This project uses data from an American peer-to-peer lending company, Lending Cl
 
 <br>
 
+<br>
+
+![](Borrowing_Reason.PNG)
+
+<br>
+
+<br>
+
 <b>Source</b>: <i>https://data.world/jaypeedevlin/lending-club-loan-data-2007-11</i>
 
 <br>

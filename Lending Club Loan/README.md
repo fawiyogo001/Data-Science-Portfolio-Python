@@ -18,6 +18,12 @@ This project uses data from an American peer-to-peer lending company, Lending Cl
 
 <br>
 
+![](Choropleth.PNG)
+
+<br>
+
+<br>
+
 <b>Source</b>: <i>https://data.world/jaypeedevlin/lending-club-loan-data-2007-11</i>
 
 <br>

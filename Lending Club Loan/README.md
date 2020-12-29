@@ -20,6 +20,8 @@ This project uses data from an American peer-to-peer lending company, Lending Cl
 
 ![](Choropleth.PNG)
 
+<center><i>Picture 2: Geographical Plotting of Loan Counts</i></center>
+
 <br>
 
 <br>

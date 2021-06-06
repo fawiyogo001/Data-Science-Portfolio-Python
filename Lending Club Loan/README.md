@@ -18,7 +18,7 @@ This project uses data from an American peer-to-peer lending company, Lending Cl
 
 <br>
 
-![](Choropleth.PNG)
+![](D:\Folders\LightSouls888\Scripts\Data Science Portfolio (Python)\Lending Club Loan\Choropleth.png)
 
 <center><i>Picture 2: Geographical Plotting of Loan Counts</i></center>
 
